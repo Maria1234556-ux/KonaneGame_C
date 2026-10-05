@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1771248285 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\interface_menu.c
+	"Interface_Menu.h"
+
+1771177685 c:\users\lenovo\desktop\programming technics\konane\konane_versionc\interface_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1771431520 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HM_VS_AI.h"
+	"HM_VS_HM.h"
+	"Grille_Konane.h"
+	"Interface_Menu.h"
+
+1771177411 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\plateau.c
+	"Plateau.h"
+
+1771177611 c:\users\lenovo\desktop\programming technics\konane\konane_versionc\plateau.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1771430955 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\hm_vs_hm.c
+	"HM_VS_HM.h"
+	"Grille_Konane.h"
+	<time.h>
+
+1771181964 c:\users\lenovo\desktop\programming technics\konane\konane_versionc\hm_vs_hm.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Grille_Konane.h"
+
+1771208150 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\grille_konane.c
+	"Grille_Konane.h"
+
+1771179552 c:\users\lenovo\desktop\programming technics\konane\konane_versionc\grille_konane.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1771431958 source:c:\users\lenovo\desktop\programming technics\konane\konane_versionc\hm_vs_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"HM_VS_AI.h"
+	"HM_VS_HM.h"
+	"Interface_Menu.h"
+
+1771181173 c:\users\lenovo\desktop\programming technics\konane\konane_versionc\hm_vs_ai.h
+	"HM_VS_HM.h"
+	<windows.h>
+	"Grille_Konane.h"
+	<string.h>
+	<ctype.h>
+	<time.h>
+
